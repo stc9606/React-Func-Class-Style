@@ -1,3 +1,6 @@
+## React Function VS Class Style
+본 프로젝트는 React의 Class방식 Component와 Function(함수)방식 Component의 장-단점에 대해 이해하기 위한 프로젝트입니다.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
